@@ -2,7 +2,7 @@
 
 ## Apa itu LAMPP?
 
-![alt text](./src/lampu.jpg)
+![lampu](https://github.com/ncclaboratory18/Oprec_Admin_NCC_2024_Pertemuan_1/assets/88009253/2e5c0c15-aed3-4c52-bccb-9630d24ff9ce)
 
 Lampp merupakan singkatan dari Linux, Apache, MySQL, perl/php/python. Merupakan sebuah paket perangkat lunak bebas yang digunakan untuk menjalankan sebuah aplikasi secaralengkap
 
