@@ -1,10 +1,10 @@
-# LAMPP
+# LAMP
 
-## Apa itu LAMPP?
+## Apa itu LAMP?
 
 ![lampu](https://github.com/ncclaboratory18/Oprec_Admin_NCC_2024_Pertemuan_1/assets/88009253/2e5c0c15-aed3-4c52-bccb-9630d24ff9ce)
 
-Lampp merupakan singkatan dari Linux, Apache, MySQL, perl/php/python. Merupakan sebuah paket perangkat lunak bebas yang digunakan untuk menjalankan sebuah aplikasi secaralengkap
+Lamp merupakan singkatan dari Linux, Apache, MySQL, perl/php/python. Merupakan sebuah paket perangkat lunak bebas yang digunakan untuk menjalankan sebuah aplikasi secaralengkap
 
 ### Komponen-komponen dari LAMP:
 - **Linux** Linux sendiri berperan sebagai sistem informasi yang berbasi Unix yang digunakan oleh pengguna secara gratis. Linux sendiri merupakan perwakilan dari sistem lainnya seperti FreeBSD, NetBSD, OpenBSD dan Darwin/Mac OS X.
@@ -14,13 +14,13 @@ Lampp merupakan singkatan dari Linux, Apache, MySQL, perl/php/python. Merupakan 
 
 Beberapa perangkat lunak yang menggunakan konfigurasi LAMP antara lain MediaWiki dan Bugzilla.
 
-### Kelebihan menggunakan LAMPP
+### Kelebihan menggunakan LAMP
 - memiliki sistem database yang keamanannya terjamin
 - proses development yang lebih cepat
 - dapat dikustomisasi sesuai kebutuhan developer
 - kode di dalamnya dapat bekerja pada berbagai OS, seperti Windows, Linux, Android, dan iOS
 
-## Install LAMPP
+## Install LAMP
 Pertama-tama, update dahulu dependency version.
 ```
 sudo apt update
